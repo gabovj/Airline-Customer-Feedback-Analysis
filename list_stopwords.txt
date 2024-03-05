@@ -19,4 +19,5 @@
 "size","style", "height","table", "align", "auto", "column", "tr",
 "div", "bz", "mail", "net", "ct_sendgrid", "protection_outlook",
 "fls_fclick", "furl", "nam_safelinks", "evehu", "fupn_dhn", 
-"itinerary_assets",  "hn_evehu" ]
+"itinerary_assets",  "hn_evehu", "media", "screen", "siguenos", "rt", 
+"favorito","none","color" ]
